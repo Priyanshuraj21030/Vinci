@@ -31,7 +31,7 @@ A modern, responsive website for WareSpace, offering flexible warehouse space re
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/warespace.git
+git clone https://github.com/Priyanshuraj21030/Vinci.git
 cd project
 ```
 
